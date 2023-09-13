@@ -1,8 +1,8 @@
-FavourOjer- 👋 Hi, I’m @Biblemanz
-Programming- 👀 I’m interested in ...
-Visual studio code- 🌱 I’m currently learning ...
-Anything- 💞️ I’m looking to collaborate on ...
-My goal- 📫 How to reach me ...
+- 👋 Hi, I’m @Biblemanz FavourOjer
+- 👀 I’m interested in ... Programming
+- 🌱 I’m currently learning ... Visual studio code
+- 💞️ I’m looking to collaborate on ... Anything
+- 📫 How to reach me ... My goal
 
 <!---
 Biblemanz/Biblemanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
